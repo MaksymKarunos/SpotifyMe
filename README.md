@@ -1,5 +1,3 @@
 # Spotify Me!
 ETL Data Pipeline Extracting and Analyzing Data from Spotify API
-<img src="i.imgur.com/SKedodi.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+<blockquote class="imgur-embed-pub" lang="en" data-id="SKedodi"><a href="https://imgur.com/SKedodi">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
