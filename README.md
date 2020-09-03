@@ -8,7 +8,7 @@ Everything you need is to log in with Spotify credentials to see your personaliz
 You will be able to see data of your favorite albums, artists, songs, playlist and discover trends and patterns of your expiernce with Spotify.
 
 # Want to contribute?
-All contributions are welcome! Please, read contribution guidlines before making a pull request.
+All contributions are welcome! Please, read [contribution guidlines](contributing.md) before making a pull request.
 
 # Data Privacy Statement:
 Your Spotify data is not collected or shared with 3d parties by us. 
