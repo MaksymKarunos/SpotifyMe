@@ -10,5 +10,5 @@ You will be able to see data of your favorite albums, artists, songs, playlist a
 # Want to contribute?
 All contributions are welcome! Please, read [contribution guidlines](contributing.md) before making a pull request.
 
-# Data Privacy Statement:
-Your Spotify data is not collected or shared with 3d parties by us. 
+## Data Privacy Statement:
+We do not share your data with 3d parties.
