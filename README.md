@@ -6,6 +6,7 @@ Inspired by https://sourcerer.io/, Spotify Me is an open source analytical plato
 # How does it work?
 Everything you need is to log in with Spotify credentials to see your personalized Spotify data insights. We use authorazation tokens to request json objects from Spotify server. Json objects are automaticaly cleaned and converted to panel data which is presented to the user. 
 You will be able to see data of your favorite albums, artists, songs, playlist and discover trends and patterns of your expiernce with Spotify.
+![](https://i.imgur.com/nplhXiJ.png)
 
 # Want to contribute?
 All contributions are welcome! Please, read [contribution guidlines](contributing.md) before making a pull request.
